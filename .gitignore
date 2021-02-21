@@ -1,0 +1,4 @@
+/.devcontainer/
+/logs/
+/docker/mysql/my.cnf
+*.env
